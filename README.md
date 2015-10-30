@@ -1,0 +1,2 @@
+# angular-indian-currency-filter
+The current angular filter allows for a symbol. But it does not allow a way to specify how the numbers should be comma separated. Perhaps by setting the locale for your application to en-in which is not enough if you want to display multiple currencies. Indian currency is a special case where the format is xx, xx, xxx This filter can be used for a display like that without having to set the locale.
